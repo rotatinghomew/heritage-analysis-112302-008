@@ -1,0 +1,5 @@
+clip,family,tradition,task,context,split,coarse,fine,reviewer,version
+L1,F_same,east,join,oak,train,joinery,edge,,v1
+L2,F_same,east,join,oak,test,joinery,edge,,v1
+L3,F_other,east,join,oak,train,joinery,lap,,v1
+L4,F_third,east,join,oak,test,joinery,lap,,v1

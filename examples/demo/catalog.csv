@@ -1,0 +1,13 @@
+code,version,level,parent,label,scope_notes,approved,max_granularity
+joinery,v1,coarse,,榫接工序,,yes,fine
+carving,v1,coarse,,雕刻工序,,yes,fine
+finish,v1,coarse,,表面处理,,yes,fine
+joinery,v2,coarse,,榫接工序,task:join,yes,fine
+carving,v2,coarse,,雕刻工序,task:carve,yes,fine
+finish,v2,coarse,,表面处理,task:paint,yes,fine
+edge,v2,fine,joinery,边缘接合,task:join; context:oak,yes,fine
+lap,v1,fine,joinery,搭接,task:join; context:oak,yes,fine
+relief,v2,fine,carving,浮雕,task:carve; context:elm,yes,fine
+incised,v2,fine,carving,阴刻,task:carve; context:elm,yes,fine
+coat,v2,fine,finish,罩面,task:paint; context:clay,yes,fine
+wash,v2,fine,finish,洗色,task:paint; context:clay,no,fine

@@ -1,0 +1,12 @@
+course,chapter,clip,catalog_code,explanation,severity,status,valid_from,valid_to
+J101,第1章 边缘接合,ED_F_edgeA_1,joinery,榫接通用说明,high,published,2026-01-01,
+J102,第2章 搭接,LA_F_lapA_1,joinery,榫接通用说明,high,published,2026-01-01,
+R201,第3章 浮雕,RE_F_relA_1,carving,雕刻通用说明,high,published,2026-02-01,
+R202,第4章 阴刻,IN_F_incA_1,carving,雕刻通用说明,medium,published,2026-02-01,
+P301,第5章 罩面,CO_F_coatA_1,finish,表面处理通用说明,high,published,2026-03-01,
+P302,第6章 洗色,WA_F_washA_1,finish,表面处理通用说明,low,published,2026-03-01,
+J103,第7章 边缘接合复练,ED_F_edgeB_1,joinery,榫接通用说明,high,published,2026-03-15,
+P303,第8章 罩面草案,CO_F_coatA_2,finish,表面处理通用说明,high,draft,2026-04-01,
+P304,第9章 罩面与洗色辨析,CO_F_coatA_3,finish,表面处理通用说明,high,published,2026-04-10,
+P305,第10章 洗色与罩面辨析,WA_F_washA_3,finish,表面处理通用说明,high,published,2026-04-10,
+R203,第11章 阴刻复练,IN_F_incA_2,carving,雕刻通用说明,medium,published,2026-04-15,

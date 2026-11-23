@@ -1,3 +1,7 @@
 __pycache__/
 *.py[cod]
 .venv/
+
+# 演示数据生成物
+examples/demo/
+examples/leaky/

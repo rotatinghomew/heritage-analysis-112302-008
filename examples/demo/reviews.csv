@@ -1,0 +1,16 @@
+review,clip,reviewer,tradition,coarse,fine,verdict,evidence_key,reviewed_at
+RV01,ED_F_edgeA_1,T1,east,joinery,edge,fine,,2026-07-02
+RV02,ED_F_edgeA_1,T2,east,joinery,edge,fine,,2026-07-02
+RV03,ED_F_edgeB_1,T1,east,joinery,edge,fine,,2026-07-03
+RV04,ED_F_edgeB_1,T2,east,joinery,edge,fine,,2026-07-03
+RV05,RE_F_relA_1,T3,west,carving,relief,fine,,2026-07-04
+RV06,RE_F_relA_1,T4,west,carving,relief,fine,,2026-07-04
+RV07,RE_F_relB_1,T3,west,carving,relief,fine,,2026-07-05
+RV08,RE_F_relB_1,T4,west,carving,relief,fine,,2026-07-05
+RV09,IN_F_incA_1,T3,west,carving,,coarse,,2026-07-06
+RV10,IN_F_incA_1,T4,west,carving,,coarse,,2026-07-06
+RV11,IN_F_incA_2,T4,west,carving,incised,fine,,2026-07-06
+RV12,LA_F_lapA_1,T1,east,joinery,lap,fine,,2026-05-01
+RV13,LA_F_lapA_1,T2,east,joinery,lap,fine,,2026-05-01
+RV14,LA_F_lapB_1,T1,east,joinery,lap,fine,,2026-05-02
+RV15,LA_F_lapB_1,T2,east,joinery,lap,fine,,2026-05-02

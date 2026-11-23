@@ -1,0 +1,6 @@
+policy,item,rule
+P1,scope,reviewed
+P2,version,v2
+P3,accuracy_threshold,0.80
+P4,confidence,0.95
+P5,review_minutes,20
